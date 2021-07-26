@@ -13,6 +13,7 @@ import java.math.BigDecimal;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
+@Entity
 public class Produto {
 
     @Id

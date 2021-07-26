@@ -1,6 +1,7 @@
 package com.dioproject.liveproject.model;
 
 import lombok.*;
+import org.hibernate.envers.Audited;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -12,6 +13,7 @@ import javax.persistence.Id;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
+@Entity
 public class Cliente {
 
     @Id
