@@ -18,7 +18,7 @@ public class Produto {
 
     @Id
     @GeneratedValue
-    private long ID_Produto;
+    private Long ID_Produto;
     private String descricao;
     private long quantidade;
     private BigDecimal preco;

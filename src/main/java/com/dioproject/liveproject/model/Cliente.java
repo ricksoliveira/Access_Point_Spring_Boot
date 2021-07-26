@@ -18,7 +18,7 @@ public class Cliente {
 
     @Id
     @GeneratedValue
-    private long ID_Cliente;
+    private Long ID_Cliente;
     private String nome;
     private String endereco;
     private String bairro;

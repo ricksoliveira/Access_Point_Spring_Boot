@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.dioproject'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '11'
+sourceCompatibility = '16'
 
 repositories {
 	mavenCentral()
@@ -36,6 +36,10 @@ dependencies {
 
 	// https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api
 	implementation group: 'javax.xml.bind', name: 'jaxb-api', version: '2.3.0'
+
+	// https://mvnrepository.com/artifact/org.javassist/javassist
+	implementation group: 'org.javassist', name: 'javassist', version: '3.28.0-GA'
+
 
 	// https://mvnrepository.com/artifact/org.hibernate/hibernate-core
 	implementation group: 'org.hibernate', name: 'hibernate-core', version: '5.2.3.Final'
