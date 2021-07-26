@@ -10,6 +10,7 @@ import java.io.Serializable;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
+@Entity
 public class Pedido {
 
     @AllArgsConstructor

@@ -11,6 +11,7 @@ import java.io.Serializable;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
+@Entity
 public class Avaliacao {
 
     @AllArgsConstructor
