@@ -8,7 +8,7 @@ The database used in this project can be understood by the following Entity Rela
 
 <img src="https://user-images.githubusercontent.com/68413884/127175209-eadad8e2-2d96-45d1-8e2c-75562e31a87b.png" alt="MER" style="zoom:90%;" />
 
-
+<br/>
 
 ## What do you need to use it?
 
@@ -16,7 +16,7 @@ The database used in this project can be understood by the following Entity Rela
 > - **Any IDE**
 > - **Any software to make requests**
 
-
+<br/>
 
 ## How to install
 
@@ -28,7 +28,7 @@ To install this project all you have to do is to clone this repository with the 
 
 Or you can just download it as a `ZIP` file and open as a project  within your IDE.
 
-
+<br/>
 
 ## How to execute it
 
@@ -50,10 +50,9 @@ Or you can just download it as a `ZIP` file and open as a project  within your I
 > 7. Click **Connect** and you should be redirected to the database home screen:
 >
 > ![image](https://user-images.githubusercontent.com/68413884/127177956-e1a6151e-ac36-4705-b4d6-9031aace8cd1.png)
->
-> 
 
 
+<br/>
 
 ## How to use the application
 
@@ -83,7 +82,7 @@ Or you can just download it as a `ZIP` file and open as a project  within your I
 >
 > ![image](https://user-images.githubusercontent.com/68413884/127180437-bf6297a6-24e0-45fb-ba21-32c297d789d2.png)
 
-
+<br/>
 
 ## Authors
 
