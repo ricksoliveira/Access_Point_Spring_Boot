@@ -10,15 +10,11 @@ The database used in this project can be understood by the following Entity Rela
 
 
 
-
-
 ## What do you need to use it?
 
 > - **Java** (at least Java version 8)
 > - **Any IDE**
 > - **Any software to make requests**
-
-
 
 
 
@@ -31,8 +27,6 @@ To install this project all you have to do is to clone this repository with the 
 > ```
 
 Or you can just download it as a `ZIP` file and open as a project  within your IDE.
-
-
 
 
 
