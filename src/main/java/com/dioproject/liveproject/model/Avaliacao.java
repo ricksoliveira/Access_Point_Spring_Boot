@@ -1,6 +1,7 @@
 package com.dioproject.liveproject.model;
 
 import lombok.*;
+import org.hibernate.envers.Audited;
 
 import javax.persistence.*;
 import java.io.Serializable;

@@ -1,7 +1,6 @@
 package com.dioproject.liveproject.controller;
 
 import com.dioproject.liveproject.model.Cliente;
-import com.dioproject.liveproject.model.Produto;
 import com.dioproject.liveproject.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

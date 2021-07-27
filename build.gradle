@@ -31,7 +31,7 @@ dependencies {
 	implementation group: 'io.springfox', name: 'springfox-bean-validators', version: '2.9.2'
 
 	// https://mvnrepository.com/artifact/org.hibernate/hibernate-envers
-	implementation group: 'org.hibernate', name: 'hibernate-envers', version: '5.2.9.Final'
+	implementation group: 'org.hibernate', name: 'hibernate-envers', version: '5.4.32.Final'
 	implementation group: 'org.hibernate', name: 'hibernate-validator', version: '6.1.5.Final'
 
 	// https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api
