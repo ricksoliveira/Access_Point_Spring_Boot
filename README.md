@@ -37,7 +37,7 @@ Or you can just download it as a `ZIP` file and open as a project  within your I
 > 2. Run the `main` class and wait for the spring boot to load.
 >
 > 3. By default this application creates a database file inside a folder named `temp` located in your **C:/ drive**.
-> 4. Open your web browser and go to the address: `localhost:8081/h2`, or just [Click here](localhost:8081/h2).
+> 4. Open your web browser and go to the address: `localhost:8081/h2`, or just [Click here](http://localhost:8081/h2).
 > 5. Make sure your settings are as the following image:
 >
 > ![image](https://user-images.githubusercontent.com/68413884/127070119-a816f4c5-bba7-4faf-a03b-11ad975ca5c2.png)
