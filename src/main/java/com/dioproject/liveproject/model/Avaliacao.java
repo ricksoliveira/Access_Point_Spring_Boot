@@ -6,6 +6,11 @@ import org.hibernate.envers.Audited;
 import javax.persistence.*;
 import java.io.Serializable;
 
+/**
+ * <p>This Class is a mapped class from a table of the database</p>
+ * <p>and its attributes are the tables columns.</p>
+ */
+
 @Getter
 @Setter
 @AllArgsConstructor
@@ -21,7 +26,7 @@ public class Avaliacao {
     @Embeddable
     @Getter
     @Setter
-    public class AvaliacaoId implements Serializable {
+    public static class AvaliacaoId implements Serializable {
         private long ID_Avaliacao;
         private long ID_Cliente;
         private long ID_Produto;

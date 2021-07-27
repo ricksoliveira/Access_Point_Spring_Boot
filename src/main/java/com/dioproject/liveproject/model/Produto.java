@@ -8,6 +8,11 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import java.math.BigDecimal;
 
+/**
+ * <p>This Class is a mapped class from a table of the database</p>
+ * <p>and its attributes are the tables columns.</p>
+ */
+
 @Getter
 @Setter
 @AllArgsConstructor

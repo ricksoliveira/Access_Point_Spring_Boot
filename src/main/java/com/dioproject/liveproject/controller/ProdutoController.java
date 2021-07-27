@@ -10,6 +10,12 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.NoSuchElementException;
 
+/**
+ * <p>The controller class is responsible for mapping the endpoints and requests types</p>
+ * <p>Each of them uses a istance of this class equivalent of the Service class, which</p>
+ * <p>communicates directly with its Repository responsible for calling the desired methods.</p>
+ */
+
 @RestController
 @RequestMapping("/produto")
 public class ProdutoController {
