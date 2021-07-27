@@ -6,7 +6,7 @@ This is a simple application made with `Spring Boot` and `Swagger` developed on 
 
 The database used in this project can be understood by the following Entity Relationship Diagram:
 
-![MER](https://user-images.githubusercontent.com/68413884/127020466-850b8bbe-9fd1-45c4-8b48-3e2cfa0196a2.png)
+![MER](https://user-images.githubusercontent.com/68413884/127175209-eadad8e2-2d96-45d1-8e2c-75562e31a87b.png)
 
 
 
