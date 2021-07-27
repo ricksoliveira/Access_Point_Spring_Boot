@@ -90,3 +90,6 @@ Or you can just download it as a `ZIP` file and open as a project  within your I
 - **Henrique Servidoni de Oliveira** - [LinkedIn](https://www.linkedin.com/in/ricksoliveira/)
 
 
+## Thanks !
+
+> Special thanks to [**DIO**](https://web.digitalinnovation.one/home) and [**Santander**](https://www.santander.com.br) for the full-stack scholarship opportunity.
