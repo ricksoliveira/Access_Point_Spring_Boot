@@ -1,5 +1,4 @@
 # Access Point Spring Boot
-# Access Point Spring Boot
 
 ### What is `Access Point` ?
 
